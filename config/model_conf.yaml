@@ -1,0 +1,3 @@
+non-mask:
+  face_detection: dummy_face_detector
+  face_alignment: dummy_face_aligner
